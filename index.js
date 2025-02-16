@@ -32,6 +32,13 @@ var myNull = null;
 const myName = prompt("What is your name?")
 const myConfirm = confirm("Do you want to go to my party?")
 
+if myConfirm true then {
+    alert("thanks!")
+    else {
+        alert(Sorry get out.)
+    }
+}
+
 
 // Get the button
 const checkBtn = document.getElementById("checkBtn");
